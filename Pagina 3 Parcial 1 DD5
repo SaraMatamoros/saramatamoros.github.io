@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página 3 - Intereses y Gustos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Intereses personales:</h1>
+    <ul>
+        <li><strong>Fotografía y arte:</strong> Soy muy apasionada de consumir contenido artístico, museos, películas, etc., así mismo amo capturar escenas con mi cámara.</li>
+        <li><strong>Pintura:</strong> En mis tiempos libres disfruto mucho de pintar, es otra forma de plasmar mis ideas y desde que tengo memoria amo hacer uso de técnicas manuales, pintura y dibujo.</li>
+        <li><strong>Producir independiente:</strong> Una de las cosas que me encanta hacer es grabar y editar contenido, desde cortos hasta videos para redes sociales contando alguna experiencia o emoción.</li>
+    </ul>
+    
+    <h1>Gustos:</h1>
+    <ul>
+        <li>Me gusta mucho el indie rock.</li>
+        <li>Amo el cine y de mis películas favoritas son Lalaland o Avatar.</li>
+    </ul>
+    
+    <p>Una canción que me representa como creativa: 
+        <a href="https://www.youtube.com/watch?v=EXIW1SvyCCU"> Hanging Upside Down- Lime Cordiale</a>
+    </p>
+</body>
+</html>
